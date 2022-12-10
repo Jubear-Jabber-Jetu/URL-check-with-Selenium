@@ -1,2 +1,2 @@
-# clock
-This is a simple python code to make a real time watch.
+# Selenium tisting
+This is a simple java code to test Selenium.
